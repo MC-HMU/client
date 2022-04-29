@@ -1,0 +1,49 @@
+{
+  "generic": {
+    "openConfigGui": {
+      "keys": "G,C"
+    },
+    "searchMobSpawnPoint": {
+      "keys": ""
+    },
+    "searchMobSpawnPointBlackList": [],
+    "syncAllEntityData": {
+      "keys": ""
+    },
+    "debug": false
+  },
+  "litematica": {
+    "betterEasyPlaceMode": false,
+    "fixAccurateProtocol": true,
+    "disableLitematicaEasyPlaceFailTip": false,
+    "saveInventoryToSchematicInServer": false,
+    "useRelativePath": false
+  },
+  "malilib": {
+    "fastSwitchMasaConfigGui": true,
+    "favoritesSupport": false,
+    "showOriginalConfigName": true,
+    "favorites": {},
+    "favoritesFilter": false
+  },
+  "minihud": {
+    "compactBborProtocol": true,
+    "pcaSyncProtocolSyncBeehive": true
+  },
+  "tweakeroo": {
+    "autoSyncTradeOfferList": true,
+    "inventoryPreviewSupportComparator": true,
+    "inventoryPreviewSupportLargeBarrel": true,
+    "inventoryPreviewSupportPlayer": true,
+    "inventoryPreviewSupportSelect": true,
+    "inventoryPreviewSupportShulkerBoxItemEntity": true,
+    "inventoryPreviewSupportTradeOfferList": true,
+    "pcaSyncProtocol": true,
+    "renderNextRestockTime": false,
+    "renderTradeEnchantedBook": false,
+    "renderZombieVillagerConvertTime": false,
+    "restockWithCrafting": false,
+    "restockWithCraftingRecipes": []
+  },
+  "configVersion": 1
+}

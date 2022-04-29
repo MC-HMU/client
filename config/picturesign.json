@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "debug": false,
+  "maxThreads": 4,
+  "signRenderDistance": 64,
+  "safeMode": true
+}

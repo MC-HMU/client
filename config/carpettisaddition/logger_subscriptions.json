@@ -1,0 +1,19 @@
+{
+  "e9816c14-b26e-420d-b942-9a78800ce665": {
+    "tps": null,
+    "mobcaps": "dynamic",
+    "memory": null
+  },
+  "9dbf9ba1-603f-3c1d-a0a1-639e70fb1f61": {
+    "tps": null,
+    "mobcaps": null
+  },
+  "8c6becd3-a80d-3ef0-8caa-0e86799bcbbe": {
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "02cfc44a-a7ff-4ada-94e9-23d9fee52e68": {
+    "mobcaps": "dynamic",
+    "tps": null
+  }
+}

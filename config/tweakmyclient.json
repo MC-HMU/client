@@ -1,0 +1,416 @@
+{
+  "Generic": {
+    "antiGhostBlocksAutoTriggerInterval": 5,
+    "antiGhostBlocksManualTrigger": {
+      "keys": ""
+    },
+    "antiGhostBlocksMode": "automatic",
+    "antiGhostItemsAutoTriggerInterval": 10,
+    "antiGhostItemsManualTrigger": {
+      "keys": ""
+    },
+    "antiGhostItemsMode": "automatic",
+    "autoDropInterval": 0,
+    "autoReconnectTimer": 5,
+    "daylightOverrideTime": 6000,
+    "getTargetBlockPosition": {
+      "keys": ""
+    },
+    "lowHealthThreshold": 6.0,
+    "memoryCleaner": {
+      "keys": ""
+    },
+    "openConfigGui": {
+      "keys": "T,C"
+    },
+    "targetBlockMaxTraceDistance": 100.0,
+    "targetBlockPositionFormat": "I\u0027m tracing this position [x: {X},y: {Y}, z: {Z}]",
+    "targetBlockPositionPrintMode": "private"
+  },
+  "Patch": {
+    "forcePistonWithoutAffectByTool": false
+  },
+  "List": {
+    "listAutoDropBlackList": [
+      "minecraft:bow",
+      "minecraft:crossbow",
+      "minecraft:diamond_axe",
+      "minecraft:diamond_boots",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_hoe",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_pickaxe",
+      "minecraft:diamond_shovel",
+      "minecraft:diamond_sword",
+      "minecraft:elytra",
+      "minecraft:enchanted_golden_apple",
+      "minecraft:flint_and_steel",
+      "minecraft:fishing_rod",
+      "minecraft:golden_apple",
+      "minecraft:golden_axe",
+      "minecraft:golden_boots",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_helmet",
+      "minecraft:golden_hoe",
+      "minecraft:golden_leggings",
+      "minecraft:golden_pickaxe",
+      "minecraft:golden_shovel",
+      "minecraft:golden_sword",
+      "minecraft:iron_axe",
+      "minecraft:iron_boots",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_helmet",
+      "minecraft:iron_hoe",
+      "minecraft:iron_leggings",
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_shovel",
+      "minecraft:iron_sword",
+      "minecraft:netherite_axe",
+      "minecraft:netherite_boots",
+      "minecraft:netherite_chestplate",
+      "minecraft:netherite_helmet",
+      "minecraft:netherite_hoe",
+      "minecraft:netherite_leggings",
+      "minecraft:netherite_pickaxe",
+      "minecraft:netherite_shovel",
+      "minecraft:netherite_sword",
+      "minecraft:shears",
+      "minecraft:shield",
+      "minecraft:totem_of_undying",
+      "minecraft:trident",
+      "minecraft:turtle_helmet"
+    ],
+    "listAutoDropType": "whiteList",
+    "listAutoDropWhiteList": [
+      "minecraft:stone",
+      "minecraft:dirt",
+      "minecraft:cobblestone",
+      "minecraft:gravel",
+      "minecraft:rotten_flesh"
+    ],
+    "listDisableAttackEntity": [
+      "player"
+    ],
+    "listDisableClientEntityUpdates": [
+      "zombi"
+    ],
+    "listDisableEntityRendering": [
+      "zombi"
+    ]
+  },
+  "Color": {
+    "colorBlockOutside": "#66000000",
+    "colorGuiStart": "#C00F0F0F",
+    "colorGuiStop": "#D00F0F0F",
+    "colorSidebarContent": "#4C000000",
+    "colorSidebarTitle": "#66000000",
+    "colorWaterOpen": "#7F00FF00",
+    "colorWaterShallow": "#7FFF0000"
+  },
+  "Disable": {
+    "disableAttackEntity": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableClientBlockEvents": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableClientEntityInListUpdates": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableClientEntityTNTUpdates": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableClientEntityWitherUpdates": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableClientEntityZombieVillagerUpdates": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableEntityInListRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableEntityTNTRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableEntityZombieVillagerRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableEntityWitherRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableFovAffectedBySpeed": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableGuiShadowLayer": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableRenderBossBar": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableRenderOverlayFire": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableRenderOverlayPumpkin": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableRenderScoreboard": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableRenderToast": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableSlowdown": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "DisableHotkey": {
+    "disableAttackEntity": {
+      "keys": ""
+    },
+    "disableClientBlockEvents": {
+      "keys": ""
+    },
+    "disableClientEntityInListUpdates": {
+      "keys": ""
+    },
+    "disableClientEntityTNTUpdates": {
+      "keys": ""
+    },
+    "disableClientEntityWitherUpdates": {
+      "keys": ""
+    },
+    "disableClientEntityZombieVillagerUpdates": {
+      "keys": ""
+    },
+    "disableEntityInListRendering": {
+      "keys": ""
+    },
+    "disableEntityTNTRendering": {
+      "keys": ""
+    },
+    "disableEntityZombieVillagerRendering": {
+      "keys": ""
+    },
+    "disableEntityWitherRendering": {
+      "keys": ""
+    },
+    "disableFovAffectedBySpeed": {
+      "keys": ""
+    },
+    "disableGuiShadowLayer": {
+      "keys": ""
+    },
+    "disableRenderBossBar": {
+      "keys": ""
+    },
+    "disableRenderOverlayFire": {
+      "keys": ""
+    },
+    "disableRenderOverlayPumpkin": {
+      "keys": ""
+    },
+    "disableRenderScoreboard": {
+      "keys": ""
+    },
+    "disableRenderToast": {
+      "keys": ""
+    },
+    "disableSlowdown": {
+      "keys": ""
+    }
+  },
+  "Feature": {
+    "featureAntiGhostBlocks": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureAntiGhostItems": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureAutoClimb": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureAutoDrop": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureAutoReconnect": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureAutoRespawn": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureCustomBlockOutsideColor": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureCustomGuiBackgroundColor": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureCustomSidebarBackgroundColor": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureDaylightOverride": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureGlobalEventListener": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureGetTargetBlockPosition": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureLowHealthWarning": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureOpenWaterHelper": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "featureUnfocusedCPU": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "FeatureHotkey": {
+    "featureAntiGhostBlocks": {
+      "keys": ""
+    },
+    "featureAntiGhostItems": {
+      "keys": ""
+    },
+    "featureAutoClimb": {
+      "keys": ""
+    },
+    "featureAutoDrop": {
+      "keys": ""
+    },
+    "featureAutoReconnect": {
+      "keys": ""
+    },
+    "featureAutoRespawn": {
+      "keys": ""
+    },
+    "featureCustomBlockOutsideColor": {
+      "keys": ""
+    },
+    "featureCustomGuiBackgroundColor": {
+      "keys": ""
+    },
+    "featureCustomSidebarBackgroundColor": {
+      "keys": ""
+    },
+    "featureDaylightOverride": {
+      "keys": ""
+    },
+    "featureGlobalEventListener": {
+      "keys": ""
+    },
+    "featureGetTargetBlockPosition": {
+      "keys": ""
+    },
+    "featureLowHealthWarning": {
+      "keys": ""
+    },
+    "featureOpenWaterHelper": {
+      "keys": ""
+    },
+    "featureUnfocusedCPU": {
+      "keys": ""
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "Generic": {
+    "carpetCtrlQCraftingEnabledOnServer": false,
+    "clientCraftingFixOn1.12": true,
+    "craftingRenderRecipeItems": true,
+    "massCraftInterval": 2,
+    "massCraftIterations": 36,
+    "massCraftSwaps": true,
+    "modMainToggle": true,
+    "packetRateLimit": 4,
+    "rateLimitClickPackets": false,
+    "craftingRecipesSaveToFile": true,
+    "craftingRecipesSaveFileIsGlobal": false,
+    "reverseScrollDirectionSingle": false,
+    "reverseScrollDirectionStacks": false,
+    "useSlotPositionAwareScrollDirection": false,
+    "useRecipeCaching": true,
+    "villagerTradeUseGlobalFavorites": true,
+    "villagerTradeListRememberScrollPosition": true
+  },
+  "Hotkeys": {
+    "openConfigGui": {
+      "keys": "I,C"
+    },
+    "toggleModOnOff": {
+      "keys": ""
+    },
+    "craftEverything": {
+      "keys": "LEFT_CONTROL,C"
+    },
+    "dropAllMatching": {
+      "keys": "LEFT_CONTROL,Q"
+    },
+    "massCraft": {
+      "keys": "LEFT_CONTROL,LEFT_SHIFT,C"
+    },
+    "moveCraftResults": {
+      "keys": "LEFT_CONTROL,M"
+    },
+    "recipeView": {
+      "keys": "A"
+    },
+    "slotDebug": {
+      "keys": ""
+    },
+    "storeRecipe": {
+      "keys": "BUTTON_3"
+    },
+    "throwCraftResults": {
+      "keys": ""
+    },
+    "villagerTradeFavorites": {
+      "keys": ""
+    },
+    "modifierMoveEverything": {
+      "keys": ""
+    },
+    "modifierMoveMatching": {
+      "keys": ""
+    },
+    "modifierMoveStack": {
+      "keys": ""
+    },
+    "modifierToggleVillagerGlobalFavorite": {
+      "keys": ""
+    },
+    "keyDragMoveStacks": {
+      "keys": "RIGHT_SUPER,LEFT_SHIFT"
+    },
+    "keyDragMoveLeaveOne": {
+      "keys": "RIGHT_SUPER,BUTTON_2"
+    },
+    "keyDragMoveMatching": {
+      "keys": "RIGHT_SUPER,BUTTON_1"
+    },
+    "keyDragMoveOne": {
+      "keys": "RIGHT_SUPER,BUTTON_3"
+    },
+    "keyDragDropLeaveOne": {
+      "keys": ""
+    },
+    "keyDragDropSingle": {
+      "keys": ""
+    },
+    "keyDragDropStacks": {
+      "keys": ""
+    },
+    "keyMoveEverything": {
+      "keys": ""
+    },
+    "wsMoveDownLeaveOne": {
+      "keys": ""
+    },
+    "wsMoveDownMatching": {
+      "keys": ""
+    },
+    "wsMoveDownSingle": {
+      "keys": ""
+    },
+    "wsMoveDownStacks": {
+      "keys": ""
+    },
+    "wsMoveUpLeaveOne": {
+      "keys": ""
+    },
+    "wsMoveUpMatching": {
+      "keys": ""
+    },
+    "wsMoveUpSingle": {
+      "keys": ""
+    },
+    "wsMoveUpStacks": {
+      "keys": ""
+    }
+  },
+  "Toggles": {
+    "enableCraftingFeatures": true,
+    "enableDropkeyDropMatching": true,
+    "enableRightClickCraftingOneStack": true,
+    "enableScrollingEverything": true,
+    "enableScrollingMatchingStacks": true,
+    "enableScrollingSingle": true,
+    "enableScrollingStacks": true,
+    "enableScrollingStacksFallback": true,
+    "enableScrollingVillager": true,
+    "enableShiftDropItems": true,
+    "enableShiftPlaceItems": true,
+    "enableVillagerTradeFeatures": true
+  }
+}
