@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:fast
-resourcePacks:["vanilla","Fabric Mods","file/masa_translate_new.zip","file/「一套的材质」更好的植被.zip","file/「一套的材质」VanillaTweaks_r281206.zip","file/彩虹像素RainbowPixel~☆v2.0.zip","file/XeKr 方纹淡彩18plus4.1.zip","file/XeKr 花叶模型包.zip","file/彩虹像素 ∞原叶模型包∞~☆ x2.zip","file/XeKr 原版红显16~19plus2.3.zip","file/XeKr 漏斗投掷器附加包.zip","file/Gugel 无缝玻璃1.17plus2.4.zip","file/「一套的材质」Sen 的增补","file/xekr-pastry-cake.zip","file/VanillaTweaks LiteralGameruleNames.zip","file/彩虹像素~☆饱食度附加包(曲奇).zip","file/AnvilCraft-0.6.5-1.18.zip","file/乌衣姐姐的祝福.zip"]
+resourcePacks:["vanilla","Fabric Mods","file/masa_translate_new.zip","file/「一套的材质」更好的植被.zip","file/「一套的材质」VanillaTweaks_r281206.zip","file/彩虹像素RainbowPixel~☆v2.0.zip","file/XeKr 方纹淡彩18plus4.1.zip","file/XeKr 花叶模型包.zip","file/彩虹像素 ∞原叶模型包∞~☆ x2.zip","file/XeKr 原版红显16~19plus2.3.zip","file/XeKr 漏斗投掷器附加包.zip","file/Gugel 无缝玻璃1.17plus2.4.zip","file/xekr-pastry-cake.zip","file/VanillaTweaks LiteralGameruleNames.zip","file/彩虹像素~☆饱食度附加包(曲奇).zip","file/「一套的材质」Sen 的增补"]
 incompatibleResourcePacks:["file/彩虹像素 ∞原叶模型包∞~☆ x2.zip","file/XeKr 漏斗投掷器附加包.zip","file/Gugel 无缝玻璃1.17plus2.4.zip","file/xekr-pastry-cake.zip","file/彩虹像素~☆饱食度附加包(曲奇).zip","file/AnvilCraft-0.6.5-1.18.zip"]
 lastServer:61.158.166.42:25569
 lang:zh_cn
