@@ -21,3 +21,7 @@
 [**mods**](mods) - Fabric mods used on the client
 
 [**datapacks**](datapacks) - Minecraft datapacks used on the client
+
+[**config**](config) - Config files for client mods
+
+[**options.txt**](./options.txt) - Config file Minecraft client

@@ -21,3 +21,7 @@
 [**mods**](mods) - 客户端端安装的 Fabric mods
 
 [**datapacks**](datapacks) - 客户端安装的 Minecraft 数据包
+
+[**config**](config) - 客户端 mod 配置文件
+
+[**options.txt**](./options.txt) - Minecraft 客户端配置文件
