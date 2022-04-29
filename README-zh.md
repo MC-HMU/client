@@ -25,3 +25,7 @@
 [**config**](config) - 客户端 mod 配置文件
 
 [**options.txt**](./options.txt) - Minecraft 客户端配置文件
+
+[**resourcepacks**](resourcepacks) - 资源包（材质包）
+
+[**shaderpacks**](shaderpacks) - 光影包

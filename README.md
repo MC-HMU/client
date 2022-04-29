@@ -25,3 +25,7 @@
 [**config**](config) - Config files for client mods
 
 [**options.txt**](./options.txt) - Config file Minecraft client
+
+[**resourcepacks**](resourcepacks) - Resourcepacks
+
+[**shaderpacks**](shaderpacks) - Shaderpacks
